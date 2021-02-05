@@ -1,0 +1,4 @@
+Git Merge
+Git clone
+Git push
+Git pull
